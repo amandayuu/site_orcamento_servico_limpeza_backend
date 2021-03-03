@@ -8,8 +8,8 @@ Site que oferece orçamento de serviços de limpeza.
 Frontend: https://github.com/amandayuu/site_orcamento_servico_limpeza_frontend
 
 ## Startando o servidor
-## npm run dev
-## É utilizado esse comando pois foi configurado no package.json que o "dev" é correspondente ao comando "nodemon app.js"
+### npm run dev
+### É utilizado esse comando pois foi configurado no package.json que o "dev" é correspondente ao comando "nodemon app.js"
 ## SEQUÊNCIAS EXECUTADAS E LIB INSTALADAS
 ### Instalar as dependências
 npm install
