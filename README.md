@@ -1,4 +1,4 @@
-# Projeto Clear & Clear - Backend
+# Projeto Clean & Clean - Backend
 
 ### Proposta
 Projeto desenvolvido com o intuito de estudar NextJs e NodeJs.
