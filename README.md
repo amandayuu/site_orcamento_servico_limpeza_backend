@@ -19,8 +19,17 @@ npm install express
 
 ### Instalar o módulo para reiniciar o servidor sempre que houver alteração no código fonte
 npm install -g nodemon
+
+### Instalar o banco de dados MongoDB (que é utilizado nesse projeto)
+npm install mongodb --save
+
+### Instalar o mongoose para traduzir os dados do bd para objetos js
+npm i mongoose --save
 ## Links
 ### Insomnia
 https://insomnia.rest/download/
 
 ### MongoDB Compass 
+
+### Mongoose
+https://mongoosejs.com
